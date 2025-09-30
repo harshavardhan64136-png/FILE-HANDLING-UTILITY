@@ -1,0 +1,5 @@
+Line 1: Hello World
+Inserted Line at index 1
+Replaced Line 2 with new content
+Line 4: This was appended
+Line 5: Another appended line
